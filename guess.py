@@ -2,8 +2,8 @@ import random
 
 n = random.randint(0,10)
 guess = int(input("guess a number between 0 and 10: "))
-if n == guess:
-    print("True")
-else:
-    print("False")
+while True:
+    if n == guess:
+        print("True !")
+        break
 
