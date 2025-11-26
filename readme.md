@@ -1,0 +1,1 @@
+salom bu oddiy readme
